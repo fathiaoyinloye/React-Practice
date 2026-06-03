@@ -1,0 +1,16 @@
+.name {
+  padding: 10px 40px;
+  height: 20vh;
+  background-color: rgb(88, 24, 120);
+  text-shadow: 3px 3px 4px;
+  text-align: left; 
+  color: aliceblue;
+  font-size: 65px;
+  font-weight: 500px;
+
+} 
+
+.name p {
+    padding-left: 100px;
+    text-shadow: 1px 1px;
+  }

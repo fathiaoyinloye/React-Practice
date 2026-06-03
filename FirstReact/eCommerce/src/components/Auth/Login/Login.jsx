@@ -1,13 +1,14 @@
 import React from "react";
 import styles from "./login.module.css";
+import NavBar from '../../navBar/NavBar';
 
 
 const Login = () => {
   return (
     <div className={styles.loginPage}>
-      <div className={styles.name}>
-        OmoTemmy's
-        <p>E-Commerce</p>
+      <div>
+        
+        <NavBar />
       </div>
 
       <div className={styles.todoBody}>
